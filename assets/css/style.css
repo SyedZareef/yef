@@ -1,0 +1,42 @@
+.header--logo img{
+	height: 55px;
+	padding-top: 5px;
+}
+/*.bg{
+background-image: url("../img/bg.png");
+background-size: cover;
+width: 100% !important;
+height: 100;
+background-repeat:no-repeat;
+background-position:top right;
+/*overflow: hidden;*/
+}*/
+.signup{
+	height: 20px;
+	width: 60px;
+}
+
+.econsi img {
+	height: 150px;
+	margin-top: 70px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.econsi h2{
+	margin: 38px 200px;
+    font-weight: lighter;
+    text-align: center;
+    font-size: medium;
+}
+.econsi button{
+	height: 50px;
+	width: 170px;
+	background-color: #fb9c1c;
+	margin-top: 70px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	focus: none;
+}
